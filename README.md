@@ -1,4 +1,4 @@
-# Calculator-Web-Application
+# Calculator
 
 A fully functional Calculator Made with using only HTML,CSS and JavaScript.
 
